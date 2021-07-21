@@ -1,18 +1,18 @@
-Dropbox
-Chrome
-VsCode
-GiFox
-iTerm
-https://iterm2.com/
+* Dropbox
+* Chrome
+* VsCode
+* GiFox
+* iTerm
+  * https://iterm2.com/
 
-Spotify
-Sublime Text
-VSCode
+* Spotify
+* Sublime Text
+* VSCode
 
-Brew
-https://brew.sh/
+* Brew
+  * https://brew.sh/
 
-Node
+* Node
 
-Vscode extensions
-prettier
+* Vscode extensions
+  * Prettier
