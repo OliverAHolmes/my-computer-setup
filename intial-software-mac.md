@@ -1,10 +1,10 @@
-* Dropbox
-* Chrome
-* VsCode
-* GiFox
+* Chrome - 
+* VsCode -
+
 * iTerm
   * https://iterm2.com/
-
+* Oh My Zsh 
+* 
 * Spotify
 * Sublime Text
 * VSCode
@@ -16,3 +16,7 @@
 
 * Vscode extensions
   * Prettier
+
+## Cool finds
+
+* GiFox
